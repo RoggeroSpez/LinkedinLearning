@@ -7,5 +7,6 @@ module.exports = {
   rules: {
     strict: ['error', 'global'],
     'func-style': ['error', 'expression'],
+    'no-new-func': 'error',
   },
 };
